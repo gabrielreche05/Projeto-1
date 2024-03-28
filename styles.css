@@ -3,6 +3,7 @@
     font-family: "Neuton", serif;
     font-weight: 400;
     font-style: normal;
+    text-align: center;
 }
 .titulo {
     font-family: "Bebas Neue", sans-serif;
@@ -11,11 +12,28 @@
     font-size: 60px;
     position: relative;
     text-align: center;
+    color: white;
   } 
 h2 {
     text-align: center;
 }
 .foto {
-    height: 567px;
-    width: 850px;
+    height: 432px;
+    width: 648px;
+    margin-left: 8px;
+}
+.box{
+    background-color: #0181D8;
+    width: 1510px;
+    height: 140px;
+    margin-left: 0px;
+    padding: 0px;
+    top: 0;
+    left: 0;
+    position: absolute;
+    top: 0
+}
+.infos{
+    text-align: center;
+    top: 90px;
 }
